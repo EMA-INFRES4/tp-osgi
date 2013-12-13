@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: HelloRequester
+Bundle-SymbolicName: HelloRequester
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: HelloRequester.jar
+Export-Package: osgi.hello.req
+Bundle-Activator: osgi.hello.req.Activator
+Import-Package: org.osgi.framework,
+ osgi.hello

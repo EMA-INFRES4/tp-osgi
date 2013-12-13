@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: HelloService
+Bundle-SymbolicName: HelloService
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: HelloService.jar,
+ xtalandier/Documents/EMA/capteurs/felix-framework-4.2.1/bin/felix.jar
+Export-Package: osgi.hello

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: HelloServiceFr
+Bundle-SymbolicName: HelloServiceFr
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: HelloServiceFr.jar
+Export-Package: osgi.hello.fr
+Bundle-Activator: osgi.hello.fr.Activator
+Import-Package: org.osgi.framework,
+ osgi.hello
